@@ -1,0 +1,1 @@
+simple auth page using css html and js
